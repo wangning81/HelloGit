@@ -10,6 +10,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Git, again and again and how about ssh?");
+            Console.WriteLine("so, everytime I need to input username/password?");
             Console.ReadKey();
         }
     }
